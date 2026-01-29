@@ -208,6 +208,10 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
+##How to Connect with me 
+WhatsApp no.:- 7654239865
+Email:- anshujha2484@gmail.com
+linkedin:-https://www.linkedin.com/in/anshu-jha-a5711a325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 
 
